@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256256195332",
+    "project_id": "newfist-b8010",
+    "storage_bucket": "newfist-b8010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256256195332:android:931079ea5b03370f2e2e51",
+        "android_client_info": {
+          "package_name": "com.example.newfist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0CNXQvI4lO-SPy3Tl6cb8ciwp5fxEYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
